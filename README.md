@@ -62,3 +62,7 @@ All plots are saved in the `plots/` folder and embedded below for quick preview.
 2. Navigate to the project folder:
 ```bash
 cd "C:\Users\aditya\3D Objects\Data-Analysis-Customer-Churn-Python"
+```
+## Author
+**Mohanty Naanee**  
+[LinkedIn](https://www.linkedin.com/in/MohantyNaanee) | [GitHub](https://github.com/MohantyNaanee)
